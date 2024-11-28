@@ -1,0 +1,42 @@
+
+
+li a:hover {
+    transition: color 0.3s ease;
+    color: #ffcb20;
+  }
+
+  .card:hover {
+    transform: translateY(-5px);
+}
+  
+.card1:hover {
+    transform: translateY(-5px);
+}
+  
+.card2:hover {
+    transform: translateY(-5px);
+}
+  
+.card3:hover {
+    transform: translateY(-5px);
+}
+  
+.card4:hover {
+    transform: translateY(-5px);
+}
+  
+.card5:hover {
+    transform: translateY(-5px);
+}
+  
+.card6:hover {
+    transform: translateY(-5px);
+}
+  
+.card7:hover {
+    transform: translateY(-5px);
+}
+  
+.card8:hover {
+    transform: translateY(-5px);
+}
